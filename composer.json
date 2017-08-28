@@ -1,0 +1,30 @@
+{
+    "name": "kapi/service",
+    "description": "Kapi Service Component",
+    "type": "library",
+    "keywords": [
+
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrien Sasia",
+            "email": "a.sasia.ldy@gmail.com",
+            "homepage": "https://github.com/AdrienSldy",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "a.sasia.ldy@gmail.com",
+        "issues": "https://github.com/kapiphp/service/issues",
+        "forum": "https://stackoverflow.com/tags/kapi+service",
+        "wiki": "https://github.com/kapiphp/service/wiki",
+        "source": "https://github.com/kapiphp/service"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kapi\\Service\\": ""
+        }
+    }
+}
